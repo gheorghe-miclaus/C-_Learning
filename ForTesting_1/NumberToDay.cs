@@ -27,7 +27,7 @@ namespace ns_NumberToDay
 
     }
 
-
+    // for testing git
     public static class StringsTransformator
     {
         public static string TransformSeparators(  string input,  string originalSeparator, string targetSeparator) 
